@@ -1,7 +1,3 @@
--- QIU Script - Roblox Studio LocalScript
--- For your own Roblox experience / Studio testing only.
--- Install: StarterPlayer > StarterPlayerScripts > LocalScript, then paste this file's contents.
--- This uses a lightweight purple UI inspired by WindUI; it does not load third-party code.
 
 local Players = game:GetService("Players")
 local UserInputService = game:GetService("UserInputService")
